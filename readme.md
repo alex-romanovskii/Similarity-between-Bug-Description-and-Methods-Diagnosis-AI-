@@ -1,5 +1,7 @@
 # Similarity-between-Bug-Description-and-Methods
 
+**If you have trouble with watching ipynb online, click [Here](https://htmlpreview.github.io/?https://github.com/alex-romanovskii/Similarity-between-Bug-Description-and-Methods-Diagnosis-AI-/blob/master/project.html) to see code with describtion but to see all visualizations you must download or html or ipynb file**  
+
 Motivation
 - Each developer is faced with the need to fix bugs in developed programs.
 - Developers spend quite a lot of their work time searching for the location and fixing bugs. (McConnell, S. (1993). Code Complete)
